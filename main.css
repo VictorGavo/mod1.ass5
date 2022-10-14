@@ -1,0 +1,97 @@
+* {
+    /* border: 0.5mm solid red; */
+}
+
+.navbar-toggler-icon {
+    text-decoration-style: none;
+}
+
+.grid-container {
+    display: grid;
+    column-gap: 50px;
+    row-gap: 50px;
+}
+
+.background {
+    z-index: -1;
+    width: 100%;
+    position:absolute;
+    margin-top: -100px;
+}
+
+.gym-name {
+    z-index: 1;
+    height: 19em;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    display: flex;
+    font-size: 3em;
+    text-shadow: -1px 1px 2px #000,
+                 1px 1px 0 #000,
+                 1px -1px 0 #000,
+                 -1px -1px 0 #000;
+}
+
+.class-header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgb(0, 0, 0) 40%);
+    align-items: flex-end;
+}
+
+.main-tile-dimension {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    padding-bottom: 20px;
+}
+
+.image-container-class {
+    height: 840px;
+    width: 100%;
+}
+
+.class-image {
+    height: 840px;
+}
+
+.class {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 33%;
+    flex-grow: 1;
+    background-color: black;
+}
+
+.team-header {
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0), rgb(255, 255, 255, 0) 40%);
+    align-items: flex-end;
+}
+
+.rounded-circle {
+    max-height: 350px;
+}
+
+.member-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text-reset {
+    text-decoration: none;
+}

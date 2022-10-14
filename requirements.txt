@@ -1,0 +1,31 @@
+Make a website for a local gym
+whatever activity I want to choose as long as its realistic
+4 pages required:
+    Landing page
+    About page
+    Sign in page
+    Sign out page
+
+
+The site should have:
+    Form
+    Navbar
+    Footer
+    CSS Grid or Bootstrap
+    Several images from Unsplash or similar
+
+OPTIONAL: record a 3-5 minute video presenting the website to the client
+
+
+BRAIN DUMP:
+Outdoor gym | Cristinas Countryside Coliseum
+everything is nature based
+equipment made from wood
+emphasis on body weight exercises
+goat yoga
+would be funny if it was a scheme to get people to build a house under the guise of 'nature based exercise'
+
+https://getbootstrap.com/docs/5.0/components/navbar/
+-Want to use this navbar, but the 'popup' isnt working.
+
+Mix it in with your current navbar and borrow from the townsville artists and store layout for the rest of the home page.
